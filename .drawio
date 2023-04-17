@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T08:01:14.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" version="21.1.8" etag="GzND4DpFj4axyt6NOQ_e" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T08:22:40.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="sm_x9vcberHQTjApI2-8" version="21.1.8" type="github">
   <diagram name="第 1 页" id="0MWF7R5gDZtdumw0v351">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-8" value="共享单车借还系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="524" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-9" value="用户" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="429" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-10" value="商户" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="647" y="429" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="71HQNmzTE0EJBw7sC4P9-9" target="71HQNmzTE0EJBw7sC4P9-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="479" as="sourcePoint" />
+            <mxPoint x="330" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-13" value="个人信息/用户位置" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="459" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-14" value="单车" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="629" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="71HQNmzTE0EJBw7sC4P9-8" target="71HQNmzTE0EJBw7sC4P9-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="669" as="sourcePoint" />
+            <mxPoint x="490" y="619" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-16" value="开锁信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="619" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="71HQNmzTE0EJBw7sC4P9-14" target="71HQNmzTE0EJBw7sC4P9-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="599" as="sourcePoint" />
+            <mxPoint x="310" y="549" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="569" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-19" value="单车位置，状态，锁信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="539" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="71HQNmzTE0EJBw7sC4P9-8" target="71HQNmzTE0EJBw7sC4P9-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="479" as="sourcePoint" />
+            <mxPoint x="510" y="429" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-21" value="费用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326" y="419" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.679;exitY=0.03;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="71HQNmzTE0EJBw7sC4P9-8" target="71HQNmzTE0EJBw7sC4P9-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="509" as="sourcePoint" />
+            <mxPoint x="590" y="459" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="501" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-23" value="单车状态，日志" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="439" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="71HQNmzTE0EJBw7sC4P9-10" target="71HQNmzTE0EJBw7sC4P9-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="579" as="sourcePoint" />
+            <mxPoint x="740" y="529" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="687" y="554" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="71HQNmzTE0EJBw7sC4P9-25" value="收费规则//活动、优惠劵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531" y="524" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
