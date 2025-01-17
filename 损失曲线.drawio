@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.6">
   <diagram name="第 1 页" id="QOAtvF1AGIrHGDuA5N3y">
-    <mxGraphModel dx="2066" dy="2318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3756" dy="3258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="sydEEjiqQxcrkQ5Y8eGX-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;( d )&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=46;" parent="1" vertex="1">
           <mxGeometry x="1645" y="1222" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xfSho3LZgRH69KvaCx5Q-1" value="&lt;span style=&quot;text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;DG frame and 3-2Dmix frame Performance of loss curves using different loss functions&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=48;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-250" width="1780" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
