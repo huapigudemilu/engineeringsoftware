@@ -166,7 +166,7 @@
           <mxGeometry x="160" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNO7E2Ii01N-R8FclHb-41" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Times New Roman&quot;&gt;C&lt;/font&gt;&lt;span style=&quot;font-size: 26px; font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;onvolution&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=-180;" vertex="1" parent="yxNO7E2Ii01N-R8FclHb-69">
-          <mxGeometry x="174" y="70" width="24" height="40" as="geometry" />
+          <mxGeometry x="174" width="24" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNO7E2Ii01N-R8FclHb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yxNO7E2Ii01N-R8FclHb-69" source="yxNO7E2Ii01N-R8FclHb-42" target="yxNO7E2Ii01N-R8FclHb-44">
           <mxGeometry relative="1" as="geometry" />
@@ -175,7 +175,7 @@
           <mxGeometry x="465" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNO7E2Ii01N-R8FclHb-43" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Times New Roman&quot;&gt;Convolution&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=-180;" vertex="1" parent="yxNO7E2Ii01N-R8FclHb-69">
-          <mxGeometry x="480" y="70" width="25" height="40" as="geometry" />
+          <mxGeometry x="480" width="25" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNO7E2Ii01N-R8FclHb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yxNO7E2Ii01N-R8FclHb-69" source="yxNO7E2Ii01N-R8FclHb-44" target="yxNO7E2Ii01N-R8FclHb-53">
           <mxGeometry relative="1" as="geometry" />
@@ -184,7 +184,7 @@
           <mxGeometry x="545" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNO7E2Ii01N-R8FclHb-45" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Times New Roman&quot;&gt;Pooling&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=-180;" vertex="1" parent="yxNO7E2Ii01N-R8FclHb-69">
-          <mxGeometry x="560" y="70" width="25" height="40" as="geometry" />
+          <mxGeometry x="560" width="25" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNO7E2Ii01N-R8FclHb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yxNO7E2Ii01N-R8FclHb-69" source="yxNO7E2Ii01N-R8FclHb-46" target="yxNO7E2Ii01N-R8FclHb-42">
           <mxGeometry relative="1" as="geometry" />
@@ -211,7 +211,7 @@
           <mxGeometry x="930" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNO7E2Ii01N-R8FclHb-59" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Times New Roman&quot;&gt;Linear&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=-180;" vertex="1" parent="yxNO7E2Ii01N-R8FclHb-69">
-          <mxGeometry x="945" y="70" width="25" height="40" as="geometry" />
+          <mxGeometry x="945" width="25" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNO7E2Ii01N-R8FclHb-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="yxNO7E2Ii01N-R8FclHb-69" source="yxNO7E2Ii01N-R8FclHb-61" target="yxNO7E2Ii01N-R8FclHb-58">
           <mxGeometry relative="1" as="geometry" />
@@ -220,7 +220,7 @@
           <mxGeometry x="850" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNO7E2Ii01N-R8FclHb-62" value="&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Times New Roman&quot;&gt;Pooling&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=-180;" vertex="1" parent="yxNO7E2Ii01N-R8FclHb-69">
-          <mxGeometry x="865" y="70" width="25" height="40" as="geometry" />
+          <mxGeometry x="865" width="25" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
